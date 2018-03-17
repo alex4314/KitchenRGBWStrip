@@ -26,6 +26,8 @@ void loop() {
  }
 }
 
+
+
 void motionDetectedInterrupt(){
  if(motionDetected<255)
   motionDetected++;
